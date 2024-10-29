@@ -1,0 +1,5 @@
+item,count,price
+IPhone 13, 5, 59 800
+Honor X7b, 10, 17 790
+Xiaomy Redmi Note 13 Pro, 3, 27 850
+POCO X6 Pro 5G, 8, 32 999
